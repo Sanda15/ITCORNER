@@ -972,3 +972,14 @@ section,
     height: 300px;
   }
 }
+
+/* Template – placa gri pentru hartă */
+.contact .contact-map .map-placeholder {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 400px;
+  background: #cccccc;
+  color: #787878;
+  font-size: 22px;
+}
